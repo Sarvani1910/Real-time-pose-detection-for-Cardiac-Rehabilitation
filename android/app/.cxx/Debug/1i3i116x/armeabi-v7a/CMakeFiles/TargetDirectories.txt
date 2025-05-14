@@ -1,0 +1,2 @@
+E:/Components/cardia/android/app/.cxx/Debug/1i3i116x/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Components/cardia/android/app/.cxx/Debug/1i3i116x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
